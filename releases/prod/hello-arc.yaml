@@ -16,4 +16,4 @@ spec:
     replicaCount: 3
     env:
       name: MESSAGE
-      value: Arc Demo!
+      value: Arc Demo for GENIX team!
